@@ -22,6 +22,6 @@ jobs:
           theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
           max_title_lines: 2
           output_type: markdown
-          base_url: https://zhengyihu.github.io/github-readme-youtube-cards/
+          base_url: https://zyhu.pythonanywhere.com/
       - run: echo OUTPUT '${{ steps.youtube-cards.outputs.markdown }}'
         shell: bash
