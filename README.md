@@ -2,8 +2,7 @@
 
 [@zyhu](https://zyhu.itch.io/)
 
-![https://candy-overdose.itch.io/overdrive](media/overdrive.svg)![https://ktswulf.itch.io/shepherd-among-wolves](media/shepherd_among_wolves.svg)
-
+[![overdrive](https://github.com/user-attachments/assets/07e55550-10c7-4a8a-a851-1031fe9ca82c)](https://candy-overdose.itch.io/overdrive)
 <a href="https://zyhu.itch.io/feed-the-queen">
 <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width="270" height="350" viewBox="0 0 250 350">
     <defs>
